@@ -1,0 +1,1 @@
+# js-jquery-document-ready-readme-seiji-test-batch-001
